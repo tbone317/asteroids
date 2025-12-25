@@ -1,3 +1,6 @@
+# my additions to the global gitignore file can be found in Global/Global.gitignore
+game_state.jsonl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
